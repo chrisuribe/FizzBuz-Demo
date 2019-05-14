@@ -1,2 +1,2 @@
-# FizzBuzz Demo for workshop
+# FizzBuzz Demo for a Workshop
 This repository was created for a workshop that will show students how to approach a simple problem: The FizzBuzz Coding Challenge. The FizzBuzz coding problem is one of the most commonly asked interview questions because it has a very simple solution and is a great tool to figgure out how the programmer interviewed thinks about building a program. Albeit, under the pressure of getting a job. ;)
